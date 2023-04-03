@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@arcgis/core": "^4.26.5",
+    "echarts": "^5.4.2",
     "vue": "^3.2.13"
   },
   "devDependencies": {
